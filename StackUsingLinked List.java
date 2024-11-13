@@ -8,7 +8,6 @@ class StackNode{
         this.next = null;
     }
 }
-
 class Stack{
     private StackNode top;
     public Stack(){
@@ -20,18 +19,15 @@ class Stack{
         top = newNode;
         System.out.println(data + " pushed to stack.");
     }
-
     public int pop(){
         if(isEmpty()){
             System.out.println("Stack is empty");
             return -1;
-
         }
         int poppedData = top.data;
         top = top.next;
         return poppedData;
     }
-
     public int peek(){
 
         if(isEmpty()){
@@ -43,7 +39,6 @@ class Stack{
     public boolean isEmpty(){
         return(top == null);
     }
-
 }
 public class StackUsingLinkedList{
     public static void main(String [] args){
