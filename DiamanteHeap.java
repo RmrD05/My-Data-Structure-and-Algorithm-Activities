@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class DiamanteSort {
+public class DiamanteHeap {
 
     
     static void buildMaxHeap(int arr[], int n) {// Function to build the max heap where value of each child is always smaller than value of their parent
