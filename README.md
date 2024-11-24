@@ -19,3 +19,4 @@ The reason behind this is that its  always better if we put labels on which thin
 The System feature includes 
 1.Inserting
 2.Displaying of the data
+3.Deleting data
