@@ -1,3 +1,4 @@
+
 import java.util.Scanner;
 
 public class DiamanteHeap {
@@ -66,5 +67,5 @@ public class DiamanteHeap {
 
         System.out.print("Sorted array: "); //prints the sorted data
         printArray(arr);
-    }
+  }
 }
