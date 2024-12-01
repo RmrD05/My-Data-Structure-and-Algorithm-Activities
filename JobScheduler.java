@@ -42,7 +42,7 @@ public class JobScheduler {
       System.out.println("\nWhat do you want to do?");
       System.out.println("1. Insert a new job");
       System.out.println("2. Process jobs");
-      System.out.println("3. Delete a job"); // Added option 3
+      System.out.println("3. Delete a job");
       System.out.println("4. Exit");
 
       int choice = sc.nextInt();
