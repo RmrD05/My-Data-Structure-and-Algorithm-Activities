@@ -1,7 +1,7 @@
 
 import java.util.ArrayList;
 import java.util.Collections; // Used for the sorting of names
-import java.util.Comparator; // Comparing
+import java.util.Comparator; // Comparing the data
 import java.util.LinkedList;
 import java.util.Scanner;
 
@@ -52,12 +52,10 @@ public class DemographicManager {
         for (int i = 0; i < table.length; i++) {
             allFamilies.addAll(table[i]);
         }
+     
+        Collections.sort(allFamilies, Comparator.comparing(Family::getName));// Sort the families by name
 
-        // Sort the families by name
-        Collections.sort(allFamilies, Comparator.comparing(Family::getName));
-
-        // Display the sorted families
-        System.out.println("Families:");
+        System.out.println("Families:");// Display the sorted families
         for (Family family : allFamilies) {
             System.out.println(family);
         }
