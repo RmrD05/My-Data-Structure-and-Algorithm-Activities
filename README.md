@@ -22,16 +22,13 @@ The System feature includes
 2.Displaying of the data
 3.Deleting data
 
-**Demographic management system** is a data system that accepts inputs and sorting it alphabetically by name.
-This system utilizes a hashing function and a hash table to store the inputted data. I had made this system in accordance to the census i had made using binary search tree and plan 
-on further enhancing this.This system sorts its data right after the user inputs the data. The idea behind this system is to swiftly access and traverse data using hash able.
-This is beneficial in the community in terms of demographic data gathering and making accessing of data more easily achieved.
+My “Demographic management system” is a data system that accepts inputs and sorts them alphabetically by name. I made this system in accordance with the census I made using a binary search tree, and I plan to further enhance this. This system sorts its data right after the user inputs it. This system utilizes a hashing function and a hash table to store the inputted data. The idea behind this system is to swiftly access and traverse data using hash tables. This is beneficial in the community in terms of demographic data gathering and making accessing of data more easily achieved.
 
-The system features include the following:
-
-1.Insertion of data
-2.Deletion of data
-3.Searching of data
-4.Sorting of inputted data
-5. Traversal and displaying of data
+ The system features include the following:
+ 
+ 1. Insertion of data
+ 2. Deletion of data
+ 3. Searching of data
+ 4. Sorting of inputted data
+ 5. Traversal and displaying of data
 
