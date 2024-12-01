@@ -17,6 +17,7 @@ The system is a data management program, wherein the user inputs the number of j
 The reason behind this is that its  always better if we put labels on which things we want to focus on.
 
 The System feature includes 
+
 1.Inserting
 2.Displaying of the data
 3.Deleting data
@@ -27,8 +28,10 @@ on further enhancing this.This system sorts its data right after the user inputs
 This is beneficial in the community in terms of demographic data gathering and making accessing of data more easily achieved.
 
 The system features include the following:
+
 1.Insertion of data
 2.Deletion of data
 3.Searching of data
 4.Sorting of inputted data
 5. Traversal and displaying of data
+
