@@ -1,6 +1,6 @@
 import java.util.ArrayList;
-import java.util.Collections;
-import java.util.Comparator;
+import java.util.Collections; // Used for the sorting of names
+import java.util.Comparator; // Comparing
 import java.util.LinkedList;
 import java.util.Scanner;
 
@@ -29,6 +29,19 @@ public class DemographicManager {
             }
         }
         return null; // Return null if the family is not found
+    }
+
+    public boolean deleteFamily(String familyName) { // Method to delete a family by name
+        int index = familyName.hashCode() % table.length;
+        for (Family family : table[index]) {
+            if (family.getName().equalsIgnoreCase(familyName)) {
+                table[index].remove(family); // Remove the family from the linked list
+                System.out.println("Family deleted: " + family);
+                return true; // Return true if deletion was successful
+            }
+        }
+        System.out.println("Family not found for deletion.");
+        return false; // Return false if the family was not found
     }
 
     public void displayFamily() { // Method to display all families in alphabetical order
@@ -76,7 +89,8 @@ public class DemographicManager {
             System.out.println("1. Add Family");
             System.out.println("2. Search Family");
             System.out.println("3. Display Families");
-            System.out.println("4. Exit");
+            System.out.println("4. Delete Family");
+            System.out.println("5. Exit");
             System.out.print("Choose an option: ");
             int choice = scanner.nextInt();
             scanner.nextLine(); // Consume newline
@@ -100,9 +114,14 @@ public class DemographicManager {
                     }
                     break;
                 case 3:
-                    demographicManager.displayFamily();2
+                    demographicManager.displayFamily();
                     break;
-                case 4:
+ case 4: // Delete a family from the hash table
+                    System.out.print("Enter family name to delete: ");
+                    String deleteName = scanner.nextLine();
+                    demographicManager.deleteFamily(deleteName);
+                    break;
+                case 5:
                     System.out.println("Exiting...");
                     scanner.close();
                     return;
