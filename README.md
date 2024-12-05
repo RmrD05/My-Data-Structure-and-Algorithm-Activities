@@ -31,4 +31,12 @@ My “Demographic management system” is a data system that accepts inputs and 
  3. Searching of data
  4. Sorting of inputted data
  5. Traversal and displaying of data
+  
+Destination Application
+It is a system that accepts inputs from the user, it is capable of adding cities and the distance between them, after adding the required data, it can then be displayed. The reason in the creation of this system is inspired from google map wherein this will still need the data to be inputted from the user. This system utilizes a graph data structure where each city added is put on a node and the distance is the weight of the edge per vertice.
 
+The System features include the following:
+
+1. Inserting vertices or the cities
+2. Adding the weight of the edges or the distance
+3. Displaying the stored data
