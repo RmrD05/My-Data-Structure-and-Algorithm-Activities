@@ -1,4 +1,4 @@
-##Census Application
+#Census Application
 
 ## Introduction
 The System that I made is a data handling system that accepts inputs and sorting it.
