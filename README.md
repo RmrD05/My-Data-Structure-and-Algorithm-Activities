@@ -61,8 +61,36 @@ The **Job Scheduling Application** benefits both learners and the community by:
 
 This application aids students and people with doing tasks and prioritizing activities to a more efficient and time sufficient method.
 
+#**Demographic Application**
 
-My “Demographic management system” is a data system that accepts inputs and sorts them alphabetically by name. I made this system in accordance with the census I made using a binary search tree, and I plan to further enhance this. This system sorts its data right after the user inputs it. This system utilizes a hashing function and a hash table to store the inputted data. The idea behind this system is to swiftly access and traverse data using hash tables. This is beneficial in the community in terms of demographic data gathering and making accessing of data more easily achieved.
+## Introduction
+My “Demographic management system” is a data system that accepts inputs and sorts them alphabetically by name. I made this system in accordance with the census I made using a binary search tree, and I plan to further enhance this. This system sorts its data right after the user inputs it. This system utilizes a hashing function and a hash table to store the inputted data.
+
+
+![Screenshot 2024-12-09 121633](https://github.com/RmrD05/My-Data-Structure-and-Algorithm-Activities/blob/6f93a0381a1a8b7677669ab8c8eceb2056c42063/Screenshot%202024-11-17%20232644.png)
+
+
+## Features
+The application includes the following functionalities:
+The systems feature includes:
+1. **Insert Family**: Input family data to the system
+2. **Display Family**: Display family name and data
+3. **Delete Family**:  Delete family name and data
+4. **Search  Family**: Traverse and search for family
+
+## Purpose and Impact
+### Why was this application created?
+-**The reason behind the idea is that I had always witnessed people giving surveys or censuses to households.**
+-**That sparked an idea in me to create a system that will lessen the efforts needed to efficiently gather data.**
+
+### How does it help the community?
+The **Census Application** benefits both learners and the community by:
+- **Educational Value**: Helping students and beginners understand graph theory and its applications in an interactive way.
+- **Encouraging Connectivity**: Simulating how technology can enhance connections, data gathering, and fostering ideas for real-world applications.
+
+This application aids the swift gathering and accessing of these data that are crucial for data gathering.
+
+ The idea behind this system is to swiftly access and traverse data using hash tables. This is beneficial in the community in terms of demographic data gathering and making accessing of data more easily achieved.
 
  The system features include the following:
  
