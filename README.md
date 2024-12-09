@@ -74,7 +74,7 @@ My “Demographic management system” is a data system that accepts inputs and 
 The application includes the following functionalities:
 The systems feature includes:
 1. **Insert Family and Monthly Salary**: Input family data to the system
-2. **Display Family along with Monthly Salary**: Display family name and their monthly salary
+2. **Traversal and Display Family along with Monthly Salary**: Display family name and their monthly salary
 3. **Delete Family**:  Delete family name and data
 4. **Search  Family**: Traverse and search for family
 
@@ -82,15 +82,17 @@ The systems feature includes:
 ### Why was this application created?
 -**The idea behind this system is to swiftly access and traverse data using hash tables.**
 -**With the use of hashtables, inserting and traversing the database is much faster thus it is helpful in data storing.**
+-**This is beneficial in the community in terms of demographic data gathering and making accessing of data more easily achieved.**
 
 ### How does it help the community?
-The **Census Application** benefits both learners and the community by:
-- **Educational Value**: Helping students and beginners understand graph theory and its applications in an interactive way.
+The **Demographic Application** benefits both learners and the community by:
+- **Educational Value**: Helping students and beginners understand hashing and its applications in an interactive way.
 - **Encouraging Connectivity**: Simulating how technology can enhance connections, data gathering, and fostering ideas for real-world applications.
+- **Data handling**: This application aids in handling data efficiently making data gathering swift.
 
-This application aids the swift gathering and accessing of these data that are crucial for data gathering.
+This application aids the swift gathering and accessing of these data that are crucial for demographic gathering in large or small scale population.
 
-  This is beneficial in the community in terms of demographic data gathering and making accessing of data more easily achieved.
+  
 
  The system features include the following:
  
