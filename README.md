@@ -1,4 +1,4 @@
-##Census System
+##Census Application
 
 ## Introduction
 The System that I made is a data handling system that accepts inputs and sorting it.
@@ -19,29 +19,15 @@ The systems feature includes:
 
 ## Purpose and Impact
 ### Why was this application created?
-This application was designed as a learning tool to:
 -**The reason behind the idea is that I had always witnessed people giving surveys or censuses to households.**
 -**That sparked an idea in me to create a system that will lessen the efforts needed to efficiently gather data.**
 
 ### How does it help the community?
-The **Social Network Graph Application** benefits both learners and the community by:
+The **Census Application** benefits both learners and the community by:
 - **Educational Value**: Helping students and beginners understand graph theory and its applications in an interactive way.
-- **Inspiration for Development**: Serving as a foundation for more advanced systems, such as social networking sites or recommendation systems.
 - **Encouraging Connectivity**: Simulating how technology can enhance connections and suggest relationships, fostering ideas for real-world applications.
 
-This application bridges theoretical knowledge and practical skills, empowering learners and inspiring developers to build meaningful tools for real-world challenges.
-**Census System**
-The System that I made is a data handling system that accepts inputs and sorting it.
-It utilizes Binary Search Trees and is capable of storing family surnames and the number of individuals in that family. 
-It’s very important because right after encoding the data, it is quickly sorted. 
-The reason behind the idea is that I had always witnessed people giving surveys or censuses to households. 
-That sparked an idea in me to create a system that will lessen the efforts needed to efficiently gather data.
-
-The systems feature includes:
-1. Inserting
-2. Displaying the data inputted
-3. Deleting
-4. Searching for data
+This application aids the swift gathering and accessing of these data that are crucial for data gathering.
 
 **Job Scheduling System**
 The system is a data management program, wherein the user inputs the number of jobs, its description, and lastly it gives the user the ability to assign which job should be prioritized using the largest possible integer input from the user as bases. This system utilizes a Max Heap structure wherein the largest is always at the top, out of all the inputted data.
