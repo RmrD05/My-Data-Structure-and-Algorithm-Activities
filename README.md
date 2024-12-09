@@ -11,7 +11,7 @@ It’s very important because right after encoding the data, it is quickly sorte
 
 ## Features
 The application includes the following functionalities:
-The systems feature includes:
+
 1. **Insert Family**: Input family data to the system
 2. **Display Family**: Display family name and data
 3. **Delete Family**:  Delete family name and data
@@ -40,10 +40,6 @@ The system is a data management program, wherein the user inputs the number of j
 
 ## Features
 The application includes the following functionalities:
-The systems feature includes:
-1.Inserting
-2.Displaying of the data
-3.Deleting data
 
 1. **Insert Job and Priority number**: Input job to the system
 2. **Process Job**: Process job and sort with priority
@@ -72,7 +68,7 @@ My “Demographic management system” is a data system that accepts inputs and 
 
 ## Features
 The application includes the following functionalities:
-The systems feature includes:
+
 1. **Insert Family and Monthly Salary**: Input family data to the system
 2. **Traversal and Display Family along with Monthly Salary**: Display family name and their monthly salary
 3. **Delete Family**:  Delete family name and data
@@ -104,7 +100,7 @@ It is a system that accepts inputs from the user, it is capable of adding cities
 
 ## Features
 The application includes the following functionalities:
-The systems feature includes:
+
 1. **Inserting vertices or the cities**: Input city and destination data to the system
 2. **Display City and Destination**: Display the cities and distance between them 
 
