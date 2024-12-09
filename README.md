@@ -1,29 +1,27 @@
-#Census System
+##Census System
 
 ## Introduction
 The System that I made is a data handling system that accepts inputs and sorting it.
 It utilizes Binary Search Trees and is capable of storing family surnames and the number of individuals in that family. 
 It’s very important because right after encoding the data, it is quickly sorted. 
-The reason behind the idea is that I had always witnessed people giving surveys or censuses to households. 
-That sparked an idea in me to create a system that will lessen the efforts needed to efficiently gather data.
+
 
 ![Screenshot 2024-12-09 121633](https://github.com/user-attachments/assets/8db00dc8-ef44-4ea8-b8c4-8ee341c0f80b)
 
 
 ## Features
 The application includes the following functionalities:
-1. **Add Person**: Create a new user in the social network.
-2. **Add Friendship**: Establish a connection between two users, representing a mutual friendship.
-3. **Display Network**: View the entire social network as an adjacency list, showing all connections.
-4. **Display Friends**: List all direct friends of a specified user.
-5. **Suggest Friends**: Recommend new friends for a user by analyzing second-degree connections (friends of friends).
+The systems feature includes:
+1. **Insert Family**: Input family data to the system
+2. **Display Family**: Display family name and data
+3. **Delete Family**:  Delete family name and data
+4. **Search  Family**: Traverse and search for family
 
 ## Purpose and Impact
 ### Why was this application created?
 This application was designed as a learning tool to:
-- **Demonstrate graph data structures**: Show how graphs can represent complex relationships like social networks.
-- **Provide practical programming experience**: Offer a hands-on way to understand and implement abstract computer science concepts.
-- **Explore real-world scenarios**: Simulate social interactions to make learning more relatable and engaging.
+-**The reason behind the idea is that I had always witnessed people giving surveys or censuses to households.**
+-**That sparked an idea in me to create a system that will lessen the efforts needed to efficiently gather data.**
 
 ### How does it help the community?
 The **Social Network Graph Application** benefits both learners and the community by:
