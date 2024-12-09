@@ -6,7 +6,7 @@ It utilizes Binary Search Trees and is capable of storing family surnames and th
 It’s very important because right after encoding the data, it is quickly sorted. 
 
 
-![Screenshot 2024-12-09 121633](Screenshot 2024-11-17 232644.png)
+![Screenshot 2024-12-09 121633](https://github.com/RmrD05/My-Data-Structure-and-Algorithm-Activities/blob/6f93a0381a1a8b7677669ab8c8eceb2056c42063/Screenshot%202024-11-17%20232644.png)
 
 
 ## Features
