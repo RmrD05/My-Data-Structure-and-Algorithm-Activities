@@ -99,14 +99,14 @@ This application aids the swift gathering and accessing of these data that are c
 It is a system that accepts inputs from the user, it is capable of adding cities and the distance between them, after adding the required data, it can then be displayed. This application utilizes weighted-graph data structures and its function includes distance measuring from point A to point B.
 
 
-![Screenshot 2024-12-09 121633](https://github.com/RmrD05/My-Data-Structure-and-Algorithm-Activities/blob/6f93a0381a1a8b7677669ab8c8eceb2056c42063/Screenshot%202024-11-17%20232644.png)
+![Screenshot 2024-12-09 121633](https://github.com/RmrD05/My-Data-Structure-and-Algorithm-Activities/blob/b6d9c0a5856db5202acac342255c498c1d8b95c2/Screenshot%202024-12-06%20073011.png)
 
 
 ## Features
 The application includes the following functionalities:
 The systems feature includes:
-1. **Insert Family**: Input family data to the system
-2. **Display Family**: Display family name and data
+1. **Insert City**: Input family data to the system
+2. **Display City and Destination**: Display family name and data
 3. **Delete Family**:  Delete family name and data
 4. **Search  Family**: Traverse and search for family
 
