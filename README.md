@@ -25,7 +25,7 @@ The systems feature includes:
 ### How does it help the community?
 The **Census Application** benefits both learners and the community by:
 - **Educational Value**: Helping students and beginners understand graph theory and its applications in an interactive way.
-- **Encouraging Connectivity**: Simulating how technology can enhance connections and suggest relationships, fostering ideas for real-world applications.
+- **Encouraging Connectivity**: Simulating how technology can enhance connections, data gathering, and fostering ideas for real-world applications.
 
 This application aids the swift gathering and accessing of these data that are crucial for data gathering.
 
@@ -45,28 +45,21 @@ The systems feature includes:
 2.Displaying of the data
 3.Deleting data
 
-1. **Insert Family**: Input job to the system
-2. **Display Family**: Display job
-3. **Delete Family**:  Deleting job upon 
-4. **Search  Family**: Traverse and search for family
+1. **Insert Job and Priority number**: Input job to the system
+2. **Process Job**: Process job and sort with priority
+3. **Delete Job**:  Deleting job upon completion
 
 ## Purpose and Impact
 ### Why was this application created?
--**The reason behind the idea is that I had always witnessed people giving surveys or censuses to households.**
--**That sparked an idea in me to create a system that will lessen the efforts needed to efficiently gather data.**
+-**The reason behind this is application is that its  always better to put priority labels on the tasks or jobs we want to do first.**
 
 ### How does it help the community?
-The **Census Application** benefits both learners and the community by:
+The **Job Scheduling Application** benefits both learners and the community by:
 - **Educational Value**: Helping students and beginners understand graph theory and its applications in an interactive way.
 - **Encouraging Connectivity**: Simulating how technology can enhance connections and suggest relationships, fostering ideas for real-world applications.
+- **Priorities**: Helping students and minds alike to learn the way of doing things that are really important
 
-This application aids the swift gathering and accessing of these data that are crucial for data gathering.
-
-
-
-The reason behind this is that its  always better if we put labels on which things we want to focus on.
-
-The System feature includes 
+This application aids students and people with doing tasks and prioritizing activities to a more efficient and time sufficient method.
 
 
 My “Demographic management system” is a data system that accepts inputs and sorts them alphabetically by name. I made this system in accordance with the census I made using a binary search tree, and I plan to further enhance this. This system sorts its data right after the user inputs it. This system utilizes a hashing function and a hash table to store the inputted data. The idea behind this system is to swiftly access and traverse data using hash tables. This is beneficial in the community in terms of demographic data gathering and making accessing of data more easily achieved.
