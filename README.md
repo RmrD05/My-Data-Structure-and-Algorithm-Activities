@@ -24,7 +24,7 @@ The systems feature includes:
 
 ### How does it help the community?
 The **Census Application** benefits both learners and the community by:
-- **Educational Value**: Helping students and beginners understand graph theory and its applications in an interactive way.
+- **Educational Value**: Helping students and beginners understand binary search trees and its applications in an interactive way.
 - **Encouraging Connectivity**: Simulating how technology can enhance connections, data gathering, and fostering ideas for real-world applications.
 
 This application aids the swift gathering and accessing of these data that are crucial for data gathering.
@@ -96,7 +96,7 @@ This application aids the swift gathering and accessing of these data that are c
 #**Destination Application**
 
 ## Introduction
-It is a system that accepts inputs from the user, it is capable of adding cities and the distance between them, after adding the required data, it can then be displayed. This application utilizes weighted-graph data structures and its function includes distance measuring from point A to point B.
+It is a system that accepts inputs from the user, it is capable of adding cities and the distance between them, after adding the required data, it can then be displayed. This application utilizes weighted-graph data structures and its function includes distance measuring from point A to point B. This system utilizes a graph data structure where each city added is put on a node and the distance is the weight of the edge per vertice.
 
 
 ![Screenshot 2024-12-09 121633](https://github.com/RmrD05/My-Data-Structure-and-Algorithm-Activities/blob/b6d9c0a5856db5202acac342255c498c1d8b95c2/Screenshot%202024-12-06%20073011.png)
@@ -105,28 +105,18 @@ It is a system that accepts inputs from the user, it is capable of adding cities
 ## Features
 The application includes the following functionalities:
 The systems feature includes:
-1. **Insert City**: Input family data to the system
-2. **Display City and Destination**: Display family name and data
-3. **Delete Family**:  Delete family name and data
-4. **Search  Family**: Traverse and search for family
+1. **Inserting vertices or the cities**: Input city and destination data to the system
+2. **Display City and Destination**: Display the cities and distance between them 
 
 ## Purpose and Impact
 ### Why was this application created?
--**The reason behind the idea is that I had always witnessed people giving surveys or censuses to households.**
--**That sparked an idea in me to create a system that will lessen the efforts needed to efficiently gather data.**
+-**The reason in the creation of this system is inspired from google map wherein this will still need the data to be inputted from the user.**
+-**That sparked an idea in me to create a system that will lessen the efforts needed to efficiently figure out the distance between cities.**
+-**Although it is full of flaws such as misinformation such as alteration of the data, it is still viable to improve.
 
 ### How does it help the community?
-The **Census Application** benefits both learners and the community by:
+The **Destination Application** benefits both learners and the community by:
 - **Educational Value**: Helping students and beginners understand graph theory and its applications in an interactive way.
 - **Encouraging Connectivity**: Simulating how technology can enhance connections, data gathering, and fostering ideas for real-world applications.
 
-This application aids the swift gathering and accessing of these data that are crucial for data gathering.
-
-
- The reason in the creation of this system is inspired from google map wherein this will still need the data to be inputted from the user. This system utilizes a graph data structure where each city added is put on a node and the distance is the weight of the edge per vertice.
-
-The System features include the following:
-
-1. Inserting vertices or the cities
-2. Adding the weight of the edges or the distance
-3. Displaying the stored data
+This application creates a efficient user dependent data that can be easily be altered if there are changes in the data.
