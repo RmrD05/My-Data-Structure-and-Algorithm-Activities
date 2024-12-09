@@ -35,7 +35,7 @@ This application aids the swift gathering and accessing of these data that are c
 The system is a data management program, wherein the user inputs the number of jobs, its description, and lastly it gives the user the ability to assign which job should be prioritized using the largest possible integer input from the user as bases. This system utilizes a Max Heap structure wherein the largest is always at the top, out of all the inputted data.
 
 
-![Screenshot 2024-12-09 121633](https://github.com/RmrD05/My-Data-Structure-and-Algorithm-Activities/blob/6f93a0381a1a8b7677669ab8c8eceb2056c42063/Screenshot%202024-11-17%20232644.png)
+![Screenshot 2024-12-09 121633](https://github.com/RmrD05/My-Data-Structure-and-Algorithm-Activities/blob/ace8108d1d3a862f334c03b76aaa9e744101939d/Screenshot%202024-11-24%20230137.png)
 
 
 ## Features
